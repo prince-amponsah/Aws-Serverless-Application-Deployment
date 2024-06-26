@@ -1,6 +1,9 @@
 # Aws-Serverless-Application-Deployment
 Deploying a web application on AWS using Serverless Services
 
+![aws-servess-github](https://github.com/prince-amponsah/Aws-Serverless-Application-Deployment/assets/1629130/177f3c80-73f0-4219-9f75-844eba6b9b64)
+
+
 A hands-on lab using aws services like Cloudfront, S3 Bucket, API Gateway, Lambda Functions and Dynamo DB
 
 IAM ACTIONS TO TAKE: (
