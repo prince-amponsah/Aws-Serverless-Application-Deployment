@@ -10,7 +10,7 @@ IAM ACTIONS TO TAKE: ( )
 
 ### 1. Create a service role Called ServerDynaLamb -
  
-   i. Enable DynamoDBFullAccess - For Testing purposes - Apply the least privilage model when using the application in the public
+   i. Enable DynamoDBFullAccess - For Testing purposes - Apply the least privilage model when using the application in Live Production
   
    ii. Enable APIgate Full Privilages as well
    
